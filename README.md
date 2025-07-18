@@ -58,10 +58,15 @@ Experience varies greatly, but...
 #### Machine Learning & AI
 - **[adlhw2](https://github.com/samradovich/adlhw2)** - Auto-regressive image generation
 - **[adlhw3](https://github.com/samradovich/adlhw3)** - In context learning for well reasoned unit conversion 
-- **[adlhw4](https://github.com/samradovich/adlhw4)** - Hypercalls for host-level IPC 
+- **[adlhw4](https://github.com/samradovich/adlhw4)** - Hypercalsendings for host-level IPC 
 - **[adl-low-mem-training](https://github.com/samradovich/adl-low-mem-training)** - Low memory training techniques for Deep Learning
 - **[nlp-final-project](https://github.com/samradovich/nlp-final-project)** - Natural Language Processing final project
-- **[utaustin-nlp](https://github.com/samradovich/utaustin-nlp)** - All projects for 
+- **[utaustin-nlp](https://github.com/samradovich/utaustin-nlp)** - All projects for Natural Language Processing:
+    - Bayesian sentiment analysis
+    - Neural Net sentiment analysis
+    - Transformer architecture from scratch
+    - Q&A fact checking
+
 - **[csml-term-paper](https://github.com/samradovich/csml-term-paper)** - Systematic review of Demand Forecasting Approaches as applied to retail over the past decade
 
 #### Distributed Systems
