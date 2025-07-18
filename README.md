@@ -17,7 +17,7 @@ The classes and concepts I have most enjoyed in school and work are:
 
 ### 🛠️ Technical Skills
 
-Experience varies, but...
+Experience varies greatly, but...
 
 **Programming Languages:**
 - **C/C++** - Systems programming, CUDA, OpenMP, MPI
