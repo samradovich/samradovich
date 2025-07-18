@@ -30,10 +30,11 @@ Experience varies, but...
 - **Machine Learning:** PyTorch, deep learning frameworks
 - **Version Control:** Git, GitHub
 - **Development:** Linux, shell scripting
+- **Other:** Kafka and Redpanda, Redis, ClickHouse
 
 ### 📚 Academic Projects
 
-***Disclaimer*** - All of the academic projects are in private repos for confidentiality.
+***Disclaimer - All of the academic projects are in private repos for confidentiality.***
 
 #### Systems & Operating Systems
 - **[pintos_threads](https://github.com/samradovich/pintos_threads)** - Thread scheduler implementation for Advanced OS
@@ -43,7 +44,10 @@ Experience varies, but...
 - **[aos-wish-shell](https://github.com/samradovich/aos-wish-shell)** - Simple shell implementation
 
 #### Virtualization Labs
-- **[virt-lab1](https://github.com/samradovich/virt-lab1)** through **[virt-lab4](https://github.com/samradovich/virt-lab4)** - Virtualization coursework at UT Austin
+- **[virt-lab1](https://github.com/samradovich/virt-lab1)** - Implements detection that the CPU supports vmx and extended paging. Launches user programs
+- **[virt-lab2](https://github.com/samradovich/virt-lab2)** - Fills in missing support for nested paging and virtual guest address &rarr; to host physical translation
+- **[virt-lab3](https://github.com/samradovich/virt-lab3)** - Checks and handles reasons for a `vmexit`
+- **[virt-lab4](https://github.com/samradovich/virt-lab4)** - Virtualization coursework at UT Austin
 
 #### Parallel Computing & Performance
 - **[parallel-prefix-scan](https://github.com/samradovich/parallel-prefix-scan)** - Parallel prefix scan with pthreads and custom spin barrier
@@ -54,7 +58,7 @@ Experience varies, but...
 #### Machine Learning & AI
 - **[adlhw2](https://github.com/samradovich/adlhw2)** - Auto-regressive image generation
 - **[adlhw3](https://github.com/samradovich/adlhw3)** - In context learning for well reasoned unit conversion 
-- **[adlhw4](https://github.com/samradovich/adlhw4)** - A vision language model for tux 
+- **[adlhw4](https://github.com/samradovich/adlhw4)** - Hypercalls for host-level IPC 
 - **[adl-low-mem-training](https://github.com/samradovich/adl-low-mem-training)** - Low memory training techniques for Deep Learning
 - **[nlp-final-project](https://github.com/samradovich/nlp-final-project)** - Natural Language Processing final project
 - **[utaustin-nlp](https://github.com/samradovich/utaustin-nlp)** - All projects for 
